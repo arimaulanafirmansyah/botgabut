@@ -69,6 +69,46 @@
       "afkTime": -1,
       "afkReason": "",
       "limit": 25
+    },
+    "6285157792618@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "6285748119140@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "6285892556676@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "62895370032878@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 25
+    },
+    "6281586775204@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 25
+    },
+    "6289504619955@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 25
+    },
+    "6288989555217@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 25
+    },
+    "6288989788014@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 25
     }
   },
   "chats": {
@@ -99,6 +139,30 @@
     "6281373032841@s.whatsapp.net": {
       "mute": false,
       "antilink": false
+    },
+    "6285157792618@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "120363029097028731@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "6285748119140@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "6285892556676@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "6285155060279-1596779076@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "6281586775204@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
     }
   },
   "database": {},
@@ -122,6 +186,24 @@
       "templateVideo": false,
       "templateGif": false,
       "templateMsg": false
+    },
+    "6285748119140@s.whatsapp.net": {
+      "status": 1670403830052,
+      "autobio": true,
+      "templateImage": true,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateMsg": false,
+      "anticall": true
+    },
+    "6285892556676@s.whatsapp.net": {
+      "status": 1670417890972,
+      "autobio": true,
+      "templateImage": true,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateMsg": false,
+      "anticall": true
     }
   },
   "others": {
